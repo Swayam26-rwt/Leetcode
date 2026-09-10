@@ -203,6 +203,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Swayam26-rwt/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Swayam26-rwt/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Swayam26-rwt/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -211,5 +212,6 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Swayam26-rwt/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Swayam26-rwt/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
