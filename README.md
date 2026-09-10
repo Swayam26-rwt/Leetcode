@@ -196,3 +196,15 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 <p align="center">
   <b>⚙️ C++ &nbsp; | &nbsp; 🐍 Python &nbsp; | &nbsp; 🧠 DSA &nbsp; | &nbsp; 🚀 Continuous Learning</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Swayam26-rwt/Leetcode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Swayam26-rwt/Leetcode/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
