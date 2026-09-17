@@ -207,6 +207,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0035-search-insert-position](https://github.com/Swayam26-rwt/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Swayam26-rwt/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/Swayam26-rwt/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Swayam26-rwt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +218,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Swayam26-rwt/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Swayam26-rwt/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Swayam26-rwt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +231,8 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Swayam26-rwt/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Swayam26-rwt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
