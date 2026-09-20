@@ -210,6 +210,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swayam26-rwt/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Swayam26-rwt/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Swayam26-rwt/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Swayam26-rwt/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Swayam26-rwt/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -217,6 +218,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0001-two-sum](https://github.com/Swayam26-rwt/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Swayam26-rwt/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Swayam26-rwt/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Swayam26-rwt/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,10 +266,12 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0084-largest-rectangle-in-histogram](https://github.com/Swayam26-rwt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Swayam26-rwt/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Swayam26-rwt/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Swayam26-rwt/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swayam26-rwt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Swayam26-rwt/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
