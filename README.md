@@ -263,6 +263,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swayam26-rwt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Swayam26-rwt/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Swayam26-rwt/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,8 +276,10 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Swayam26-rwt/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Swayam26-rwt/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Swayam26-rwt/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/Swayam26-rwt/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
