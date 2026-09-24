@@ -301,6 +301,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Swayam26-rwt/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0344-reverse-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,4 +310,8 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Swayam26-rwt/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
