@@ -279,6 +279,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0225-implement-stack-using-queues](https://github.com/Swayam26-rwt/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Swayam26-rwt/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Swayam26-rwt/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Swayam26-rwt/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +306,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0020-valid-parentheses](https://github.com/Swayam26-rwt/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Swayam26-rwt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Swayam26-rwt/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,4 +329,8 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Swayam26-rwt/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Swayam26-rwt/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
