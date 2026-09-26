@@ -224,6 +224,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0169-majority-element](https://github.com/Swayam26-rwt/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Swayam26-rwt/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Swayam26-rwt/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0567-permutation-in-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +307,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0020-valid-parentheses](https://github.com/Swayam26-rwt/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Swayam26-rwt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Swayam26-rwt/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -321,6 +323,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0075-sort-colors](https://github.com/Swayam26-rwt/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Swayam26-rwt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,4 +336,8 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Swayam26-rwt/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
