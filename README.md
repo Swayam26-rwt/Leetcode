@@ -340,4 +340,8 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
