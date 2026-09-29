@@ -272,6 +272,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Swayam26-rwt/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +281,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0155-min-stack](https://github.com/Swayam26-rwt/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Swayam26-rwt/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Swayam26-rwt/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Swayam26-rwt/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Swayam26-rwt/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
@@ -323,6 +325,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Swayam26-rwt/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Swayam26-rwt/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Swayam26-rwt/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Quicksort
@@ -346,4 +349,5 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
