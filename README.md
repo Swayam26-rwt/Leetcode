@@ -207,6 +207,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0033-search-in-rotated-sorted-array](https://github.com/Swayam26-rwt/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swayam26-rwt/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Swayam26-rwt/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/Swayam26-rwt/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Swayam26-rwt/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Swayam26-rwt/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swayam26-rwt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -352,4 +353,8 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/Swayam26-rwt/Leetcode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
