@@ -210,6 +210,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | [0039-combination-sum](https://github.com/Swayam26-rwt/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Swayam26-rwt/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Swayam26-rwt/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Swayam26-rwt/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swayam26-rwt/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swayam26-rwt/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Swayam26-rwt/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -357,4 +358,9 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Swayam26-rwt/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/Swayam26-rwt/Leetcode/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Swayam26-rwt/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
