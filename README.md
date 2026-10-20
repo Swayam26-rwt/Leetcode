@@ -363,4 +363,24 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Swayam26-rwt/Leetcode/tree/main/0078-subsets/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swayam26-rwt/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swayam26-rwt/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swayam26-rwt/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swayam26-rwt/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swayam26-rwt/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
