@@ -269,10 +269,12 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Swayam26-rwt/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Swayam26-rwt/Leetcode/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Swayam26-rwt/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Swayam26-rwt/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -352,6 +354,7 @@ As I improve, I will revisit older problems, optimize solutions, and learn alter
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Swayam26-rwt/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Swayam26-rwt/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Swayam26-rwt/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
